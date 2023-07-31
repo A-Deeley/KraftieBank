@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kraftie Bank Connector", "Kraftie Bank Connector.csproj", "{7DB9A3B7-8505-47A1-8AE9-CB7B90D7299B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KraftieWebApi", "..\KraftieWebApi\KraftieWebApi.csproj", "{EE2C1DDB-EAA6-4014-9230-00083FA57D01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DB9A3B7-8505-47A1-8AE9-CB7B90D7299B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB9A3B7-8505-47A1-8AE9-CB7B90D7299B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB9A3B7-8505-47A1-8AE9-CB7B90D7299B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB9A3B7-8505-47A1-8AE9-CB7B90D7299B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE2C1DDB-EAA6-4014-9230-00083FA57D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2C1DDB-EAA6-4014-9230-00083FA57D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2C1DDB-EAA6-4014-9230-00083FA57D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2C1DDB-EAA6-4014-9230-00083FA57D01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AE549C8-FAE8-4C58-9665-AB0FA6370763}
+	EndGlobalSection
+EndGlobal

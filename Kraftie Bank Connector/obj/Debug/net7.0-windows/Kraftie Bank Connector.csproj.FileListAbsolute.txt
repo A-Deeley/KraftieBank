@@ -1,0 +1,49 @@
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\Kraftie Bank Connector.csproj.AssemblyReference.cache
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\UserControls\CharacterLineItem.g.cs
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\UserControls\CharacterSelector.g.cs
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\UserControls\ConfigMenu.g.cs
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\UserControls\KraftieBanking.g.cs
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\Kraftie Bank Connector_MarkupCompile.cache
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\Kraftie Bank Connector_MarkupCompile.lref
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\Kraftie Bank Connector.exe
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\Kraftie Bank Connector.dll.config
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\Kraftie Bank Connector.deps.json
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\Kraftie Bank Connector.runtimeconfig.json
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\Kraftie Bank Connector.dll
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\Kraftie Bank Connector.pdb
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\KeraLua.dll
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\NLua.dll
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\android-arm\native\liblua54.so
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\android-arm64\native\liblua54.so
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\android-x64\native\liblua54.so
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\android-x86\native\liblua54.so
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\ios\native\liblua54.framework\Info.plist
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\ios\native\liblua54.framework\liblua54
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\linux-x64\native\liblua54.so
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\maccatalyst\native\liblua54.framework\Info.plist
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\maccatalyst\native\liblua54.framework\liblua54
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\osx\native\liblua54.dylib
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\tvos\native\liblua54.framework\Info.plist
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\tvos\native\liblua54.framework\liblua54
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\win-arm\native\lua54.dll
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\win-arm64\native\lua54.dll
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\win-x64\native\lua54.dll
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\bin\Debug\net7.0-windows\runtimes\win-x86\native\lua54.dll
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\UserControls\CharacterLineItem.baml
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\UserControls\CharacterSelector.baml
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\UserControls\ConfigMenu.baml
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\UserControls\KraftieBanking.baml
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\Kraftie Bank Connector.g.resources
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\Kraftie Bank Connector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\Kraftie Bank Connector.AssemblyInfoInputs.cache
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\Kraftie Bank Connector.AssemblyInfo.cs
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\Kraftie Bank Connector.csproj.CoreCompileInputs.cache
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\Kraftie Bank Connector.csproj.CopyComplete
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\Kraftie Bank Connector.dll
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\refint\Kraftie Bank Connector.dll
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\Kraftie Bank Connector.pdb
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\Kraftie Bank Connector.genruntimeconfig.cache
+C:\Users\Kuronai\source\repos\Kraftie Bank Connector\obj\Debug\net7.0-windows\ref\Kraftie Bank Connector.dll

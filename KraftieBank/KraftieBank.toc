@@ -1,0 +1,8 @@
+## Interface: 11403
+## Version: 1.0.0
+## Title: Kraftie Bank
+## Notes: Kraftie Bank Connector
+## Author: Kuronai-Mankrik
+## SavedVariablesPerCharacter: KraftieBankContents
+
+Kraftie.lua

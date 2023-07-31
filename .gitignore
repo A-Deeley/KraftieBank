@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/kraftiebankwebsite/node_modules
+/kraftiebankwebsite/.pnp
+/kraftiebankwebsite/*.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+/kraftiebankwebsite/*.DS_Store
+/kraftiebankwebsite/*.env.local
+/kraftiebankwebsite/*.env.development.local
+/kraftiebankwebsite/*.env.test.local
+/kraftiebankwebsite/*.env.production.local
+
+/kraftiebankwebsite/*npm-debug.log*
+/kraftiebankwebsite/*yarn-debug.log*
+/kraftiebankwebsite/*yarn-error.log*

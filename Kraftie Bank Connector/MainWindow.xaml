@@ -1,0 +1,18 @@
+﻿<Window x:Class="Kraftie_Bank_Connector.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kraftie_Bank_Connector"
+        mc:Ignorable="d"
+        ShowInTaskbar="True"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" FlowDirection="RightToLeft">
+            <Button Click="Config_Button_Click" Margin="2 0 0 0">Config</Button>
+            <Button x:Name="CharSelectBtn" Click="CharSelect_Button_Click" Margin="2 0 0 0">Select characters</Button>
+            <Button Click="Banking_Operations_Click" Margin="2 0 0 0">kraftie Bank</Button>
+        </StackPanel>
+        <ContentControl x:Name="Frame"/>
+    </DockPanel>
+</Window>
